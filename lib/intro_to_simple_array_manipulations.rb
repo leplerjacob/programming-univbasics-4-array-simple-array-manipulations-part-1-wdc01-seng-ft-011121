@@ -1,9 +1,9 @@
 require 'pry'
 
 def using_push(array, element)
-  binding.pry
+  # binding.pry
   array.push(element)
-  binding.pry
+  # binding.pry
   array
 end
 
