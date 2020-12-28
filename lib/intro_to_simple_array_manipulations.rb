@@ -4,6 +4,6 @@ def using_push(array, element)
   # binding.pry
   array.push(element)
   # binding.pry
-  array
+  array.class
 end
 
