@@ -33,8 +33,7 @@ end
 # Method uses .shift with an argument to remove the first two elements of the given array and returns the "shifted" elements as an array
 def shift_with_args(array)
   shifted_elements = array.shift(2)
-  puts shifted_elements
-  shifted_elements
+  p shifted_elements
 end
 
 
