@@ -23,3 +23,21 @@ def pop_with_args(array)
   popped_elements = array.pop(2)
   popped_elements
 end
+
+# Method uses .shift to remove the first element of the given array and returns the "shifted" element
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
