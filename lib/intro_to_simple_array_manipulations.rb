@@ -19,3 +19,8 @@ def using_pop(array)
 end
 
 # Method uses .pop with an argument to remove the last two elements of the given array and returns the "popped" elements as an array
+def pop_with_args(array)
+  popped_elements = array.pop(2)
+  puts popped_elements, popped_elements.class
+  popped_elements
+end
