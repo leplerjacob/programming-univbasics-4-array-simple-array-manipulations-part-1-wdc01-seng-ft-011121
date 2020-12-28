@@ -15,4 +15,5 @@ end
 # Method uses .pop to remove last element of the given array and returns the "popped" element
 def using_pop(array)
   popped_element = array.pop
+  popped_element
 end
