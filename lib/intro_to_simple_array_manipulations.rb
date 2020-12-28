@@ -27,6 +27,7 @@ end
 # Method uses .shift to remove the first element of the given array and returns the "shifted" element
 def using_shift(array)
   shifted_element = array.shift
+  puts shifted_element.class
   shifted_element
 end
 
