@@ -15,7 +15,6 @@ end
 # Method uses .pop to remove last element of the given array and returns the "popped" element
 def using_pop(array)
   popped_element = array.pop
-  puts popped_element.class
   popped_element
 end
 
