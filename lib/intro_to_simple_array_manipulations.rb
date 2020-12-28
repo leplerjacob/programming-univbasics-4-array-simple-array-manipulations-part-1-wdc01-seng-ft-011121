@@ -5,6 +5,5 @@ def using_push(array, element)
   array.push(element)
   # binding.pry
   # puts array.class
-  array
 end
 
