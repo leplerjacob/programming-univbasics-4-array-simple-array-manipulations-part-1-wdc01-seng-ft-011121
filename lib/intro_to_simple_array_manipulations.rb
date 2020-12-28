@@ -17,3 +17,5 @@ def using_pop(array)
   popped_element = array.pop
   popped_element
 end
+
+# Method uses .pop with an argument to remove the last two elements of the given array and returns the "popped" elements
