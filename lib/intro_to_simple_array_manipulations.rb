@@ -12,4 +12,5 @@ end
 
 # Method uses .unshift to input element at start of the given array and returns the new array
 def using_unshift(array, element)
+  array.unshift(element)
   
