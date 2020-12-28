@@ -10,5 +10,6 @@ def using_push(array, element)
   # puts array.class
 end
 
+# Method uses .unshift to input element at start of the given array
 def using_unshift
   
